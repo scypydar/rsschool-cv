@@ -14,6 +14,7 @@
 
 ## Education
 high, Cherepovets State Univercity,
+
 management and computer science in technical systems
 
 ## Experience
