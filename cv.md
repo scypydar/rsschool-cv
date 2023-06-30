@@ -13,7 +13,11 @@
 ## Code example
 
 ## Education
+high, Cherepovets State Univercity,
+management and computer science in technical systems
 
 ## Experience
 
 ## Languages
+* Russian (native)
+* English (A2)
