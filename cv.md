@@ -21,4 +21,4 @@ management and computer science in technical systems
 
 ## Languages
 * Russian (native)
-* English (A2)
+* English (A1)
